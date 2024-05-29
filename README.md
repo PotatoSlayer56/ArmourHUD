@@ -1,5 +1,5 @@
 # ArmourHUd
- ![Static Badge](https://img.shields.io/badge/ArmourHUD-v1.0.0-blue)
+ ![Static Badge](https://img.shields.io/badge/ArmourHUD-v1.0.1-blue)
 
 ## Commands
 `/armourhud-movex` Sets the x value of every hud icon.
