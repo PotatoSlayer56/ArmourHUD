@@ -1,5 +1,6 @@
-# ArmourHUd
- ![Static Badge](https://img.shields.io/badge/ArmourHUD-v1.0.1-blue)
+# ArmourHUD
+![GitHub Tag](https://img.shields.io/github/v/tag/PotatoSlayer56/ArmourHUD?label=Version&color=blue) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/Vtd30Bc2?logo=modrinth&logoColor=1bd96a&label=Downloads&color=1bd96a)
+
 
 ## Commands
 `/armourhud-movex` Sets the x value of every hud icon.
