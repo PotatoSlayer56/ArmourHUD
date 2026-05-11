@@ -1,14 +1,9 @@
-# ArmourHUD
-![GitHub Tag](https://img.shields.io/github/v/tag/PotatoSlayer56/ArmourHUD?label=Version&color=blue) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/Vtd30Bc2?logo=modrinth&logoColor=1bd96a&label=Downloads&color=1bd96a)
+# Armour HUD
 
+## Setup
 
-## Commands
-`/armourhud-movex` Sets the x value of every hud icon.
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
 
-`/armourhud-movey` Sets the y value of every hud icon.
+## License
 
-`/armourhud-<armour>movex` Changes the x of a specific icon.
-
-`/armourhud-<armour>movey` Changes the y of a specific icon.
-
-`/armourhud-hudtoggle` Toggles the hud. Default: `false`
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
