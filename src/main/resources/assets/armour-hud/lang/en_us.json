@@ -1,0 +1,12 @@
+{
+  "config.armourhud.screen.title": "Armour HUD",
+  "config.armourhud.screen.label.X": "X",
+  "config.armourhud.screen.label.Y": "Y",
+  "config.armourhud.screen.label.enabled": "Enabled",
+  "config.armourhud.screen.label.helmetposition": "Helmet Position",
+  "config.armourhud.screen.label.chestplateposition": "Chestplate Position",
+  "config.armourhud.screen.label.leggingsposition": "Leggings Position",
+  "config.armourhud.screen.label.bootsposition": "Boots Position",
+  "config.armourhud.screen.button.save": "Save and Close",
+  "key.armourhud.config": "Open Config"
+}

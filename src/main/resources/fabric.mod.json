@@ -3,13 +3,14 @@
 	"id": "armour-hud",
 	"version": "${version}",
 	"name": "Armour HUD",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A quick and easy armour hud mod",
 	"authors": [
-		"Me!"
+		"PotatoSlayer56"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/armourhud",
+		"source": "https://github.com/PotatoSlayer56/ArmourHUD",
+		"discord": "https://discord.gg/M8rbaBSgRU"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/armour-hud/icon.png",
@@ -20,6 +21,9 @@
 		],
 		"client": [
 			"potatoslayer56.armourhud.client.ArmourHUDClient"
+		],
+		"modmenu": [
+			"potatoslayer56.armourhud.client.config.ModMenuImplementation"
 		]
 	},
 	"mixins": [
@@ -30,9 +34,18 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.19.2",
-		"minecraft": "~26.1.2",
+		"fabricloader": ">=0.19",
+		"minecraft": "~26.1",
 		"java": ">=25",
 		"fabric-api": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.modrinth": "https://modrinth.com/mod/armourhud",
+				"modmenu.source": "https://github.com/PotatoSlayer56/ArmourHUD",
+				"modmenu.discord": "https://discord.gg/M8rbaBSgRU"
+			}
+		}
 	}
 }
